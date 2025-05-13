@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/utils"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/utils"
 )
 
 type Converter struct {
