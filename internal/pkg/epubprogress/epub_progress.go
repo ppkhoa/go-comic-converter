@@ -9,7 +9,7 @@ import (
 
 	"github.com/schollz/progressbar/v3"
 
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/utils"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/utils"
 )
 
 type Options struct {
