@@ -1,3 +1,4 @@
+module github.com/ppkhoa/go-comic-converter/v3
 use (
     github.com/ppkhoa/go-comic-converter/v3
     github.com/celogeek/go-comic-converter/v3
