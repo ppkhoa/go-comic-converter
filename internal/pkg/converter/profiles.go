@@ -57,6 +57,7 @@ func NewProfiles() Profiles {
 		// reMarkable
 		{"RM1", "reMarkable 1", 1404, 1872},
 		{"RM2", "reMarkable 2", 1404, 1872},
+		{"RM2", "reMarkable Paper Pro", 1620, 2160},
 	} {
 		res[r.Code] = r
 	}
