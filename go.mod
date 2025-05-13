@@ -2,11 +2,6 @@ module github.com/ppkhoa/go-comic-converter/v3
 
 go 1.23
 
-use (
-    github.com/ppkhoa/go-comic-converter/v3
-    github.com/celogeek/go-comic-converter/v3
-)
-
 require (
 	github.com/beevik/etree v1.5.0
 	github.com/disintegration/gift v1.2.1
