@@ -14,15 +14,15 @@ import (
 
 	"github.com/gofrs/uuid"
 
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubimage"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubimagepassthrough"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubimageprocessor"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubprogress"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubtemplates"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubtree"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/epubzip"
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/utils"
-	"github.com/celogeek/go-comic-converter/v3/pkg/epuboptions"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubimage"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubimagepassthrough"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubimageprocessor"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubprogress"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubtemplates"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubtree"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/epubzip"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/utils"
+	"github.com/ppkhoa/go-comic-converter/v3/pkg/epuboptions"
 )
 
 type EPUB interface {
