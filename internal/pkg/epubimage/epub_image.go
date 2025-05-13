@@ -5,7 +5,7 @@ import (
 	"image"
 	"strings"
 
-	"github.com/celogeek/go-comic-converter/v3/internal/pkg/utils"
+	"github.com/ppkhoa/go-comic-converter/v3/internal/pkg/utils"
 )
 
 type EPUBImage struct {
